@@ -1,1 +1,1 @@
-location.href = 'https://ajaxrmodel.shakira.fun' + window.location.pathname;
+location.href = 'https://www.shakira.fun' + window.location.pathname;
