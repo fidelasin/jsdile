@@ -4,6 +4,15 @@
     if (!md.is('bot') && !navigator.userAgent.toLowerCase().includes("bot.html")) {
     //     window.location="http://www.google.com";
         
-var theDiv = document.getElementById("page");
-theDiv.appendChild('<script id="_wau531">var _wau = _wau || []; _wau.push(["dynamic", "wnwir8za59", "531", "c4302bffffff", "small"]);</script><script async src="//waust.at/d.js"></script>');
+var _wau = _wau || []; _wau.push(["dynamic", "wnwir8za59", "531", "c4302bffffff", "small"]);
+    var head = document.getElementsByTagName('head')[0];
+
+var script = document.createElement('script');
+script.type = 'text/javascript';
+sscript.id = '_wau531';
+script.src = "//waust.at/d.js";
+head.appendChild(script);
+
+    
+    
     }
