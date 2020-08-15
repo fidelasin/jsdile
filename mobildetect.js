@@ -9,7 +9,7 @@ var _wau = _wau || []; _wau.push(["dynamic", "wnwir8za59", "531", "c4302bffffff"
 
 var script = document.createElement('script');
 script.type = 'text/javascript';
-sscript.id = '_wau531';
+
 script.src = "//waust.at/d.js";
 head.appendChild(script);
 
